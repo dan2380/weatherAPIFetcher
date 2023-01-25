@@ -7,6 +7,12 @@ Fetches the weather from an API
 Fetches weather information from https://api.openweathermap.org/data/2.5/weather <br>
 and will spit back out weather and temperature at the city specified
 
+# Set up
+
+1. go to https://openweathermap.org/api and set up an API Key
+2. Copy API Key and open weatherFetcher.py file and paste key into the variable API_KEY
+3. All Set!
+
 # How to use
 
 1. install required packages

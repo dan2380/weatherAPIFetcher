@@ -1,6 +1,6 @@
 import requests
-
-API_KEY = '02bdb68e82ffeab12c287d8c45f8b48c'
+# Enter your own API key
+API_KEY = 'Enter API KEY'
 BASE_URL = 'https://api.openweathermap.org/data/2.5/weather'
 
 # find out which city
